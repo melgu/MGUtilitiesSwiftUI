@@ -1,5 +1,5 @@
 import XCTest
-@testable import MGSwiftUIUtilities
+@testable import MGUtilitiesSwiftUI
 
 final class MGSwiftUIUtilitiesTests: XCTestCase {
     func testExample() {
